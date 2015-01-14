@@ -124,13 +124,13 @@
     <div class="xiangce"> 
         <ul  id="images">
             <li><div>
-                <a href="3dOcean.htm"><img alt="xiaowang1" src="images/thumbnails/xiaowang1.jpg"/></a>
+                <a href="xiaowang1.htm"><img alt="xiaowang1" src="images/thumbnails/xiaowang1.jpg"/></a>
             </div></li>
             <li><div>
-                <a href="AudioJungle.htm"><img alt="guoguo1" src="images/thumbnails/guoguo1.jpg"/></a>
+                <a href="guoguo1.htm"><img alt="guoguo1" src="images/thumbnails/guoguo1.jpg"/></a>
             </div></li>
             <li><div>
-            <a href="ActiveDen.htm"><img alt="guoguo2" src="images/thumbnails/guoguo2.jpg"/></a>
+            <a href="guoguo2.htm"><img alt="guoguo2" src="images/thumbnails/guoguo2.jpg"/></a>
             </div></li>
            
         </ul>
