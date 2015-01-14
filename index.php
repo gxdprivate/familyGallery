@@ -124,7 +124,7 @@
     <div class="xiangce"> 
         <ul  id="images">
             <li><div>
-                <a href="xiaowang1.htm"><img alt="xiaowang1" src="images/thumbnails/xiaowang1.jpg"/></a>
+                <a href="xiaowang1.htm"><img alt="xiaowang1" src="images/thumbnails/xiaowang1.JPG"/></a>
             </div></li>
             <li><div>
                 <a href="guoguo1.htm"><img alt="guoguo1" src="images/thumbnails/guoguo1.jpg"/></a>
