@@ -6,7 +6,7 @@
     
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>相册</title>
-	<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.js"></script>
+	<script type="text/javascript" src="jquery-1.3.2.js"></script>
 	<script src="jquery.easing.1.3.js" type="text/javascript"></script>  
     <link type="text/css" rel="stylesheet" href="styles/default.css" media="screen" />
     <link rel="Stylesheet" type="text/css" href="styles/loginDialog.css" />
